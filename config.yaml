@@ -1,0 +1,9 @@
+model_root: E:\20230527-LiXueJie\models
+label_file: group.csv
+ml_models:
+  - LR
+  - RandomForest
+  - XGBoost
+  - LightGBM
+  - ExtraTrees
+clinic_file: D:\20230527-LiXueJie\Clinic.csv
